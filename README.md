@@ -1,5 +1,7 @@
 # PgToTsClasses
 
+Work in progress. who knows if it will ever be finished?
+
 ![branches](./coverage/badge-branches.svg)
 ![functions](./coverage/badge-functions.svg)
 ![lines](./coverage/badge-lines.svg)
